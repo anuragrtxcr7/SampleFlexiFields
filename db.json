@@ -1,0 +1,82 @@
+{
+    "FlexiFields":[
+        {
+            "id":0,
+            "loanAmount":1000,
+            "interest":10,
+            "term":1,
+            "repayment":100,
+            "day":"1st",
+            "pla":100,
+            "repaymentInterest":10,
+            "lateDay":1,
+            "lateFee":10,
+            "governingLaw":"Law 1"
+        },
+        {
+            "id":1,
+            "loanAmount":2000,
+            "interest":20,
+            "term":2,
+            "repayment":200,
+            "day":"2nd",
+            "pla":200,
+            "repaymentInterest":20,
+            "lateDay":2,
+            "lateFee":20,
+            "governingLaw":"Law 2"
+        },
+        {
+            "id":2,
+            "loanAmount":3000,
+            "interest":30,
+            "term":3,
+            "repayment":300,
+            "day":"3rd",
+            "pla":300,
+            "repaymentInterest":30,
+            "lateDay":3,
+            "lateFee":30,
+            "governingLaw":"Law 3"
+        },
+        {
+            "id":3,
+            "loanAmount":4000,
+            "interest":40,
+            "term":4,
+            "repayment":400,
+            "day":"4th",
+            "pla":400,
+            "repaymentInterest":40,
+            "lateDay":4,
+            "lateFee":40,
+            "governingLaw":"Law 4"
+        },
+        {
+            "id":4,
+            "loanAmount":5000,
+            "interest":50,
+            "term":5,
+            "repayment":500,
+            "day":"5th",
+            "pla":500,
+            "repaymentInterest":50,
+            "lateDay":5,
+            "lateFee":50,
+            "governingLaw":"Law 5"
+        },
+        {
+            "id":5,
+            "loanAmount":6000,
+            "interest":60,
+            "term":6,
+            "repayment":600,
+            "day":"6th",
+            "pla":600,
+            "repaymentInterest":60,
+            "lateDay":6,
+            "lateFee":60,
+            "governingLaw":"Law 6"
+        }
+    ]
+}
